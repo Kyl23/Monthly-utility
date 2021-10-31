@@ -2,7 +2,7 @@
 personal bookkeeping web
 ## 環境
     前端：HTML、CSS、JS
-    後端：node.js
+    後端：node.js(Express.js)module已經包含在專案中了
 
 ## 資料儲存
     用戶名稱、密碼只能在 *user/user.json* 中設定，無法通過前端註冊設定
