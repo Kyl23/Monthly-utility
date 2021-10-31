@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(3, 3, 58);
+    text-align: center;
+    margin: auto;
+    color:white;
+    font-size: 2vh;
+}
+input{
+    font-size: 2vh;
+    width: 70vw;
+    margin-top: 5vh;
+    height: 10vh;
+    border-radius: 45px;
+    background-color: rgb(10, 10, 104);
+    color:white;
+    box-shadow: rgb(50, 36, 179) 0px 0px 12px 3px;
+    display: inline-block;
+    padding: 0 10px;
+    outline: none;
+    text-align: center;
+}
+table{
+    border: cyan groove 3px;
+    color:white;
+    border-color: white;   
+    padding: 10px;
+    margin: auto;
+    max-width: 100%;
+    width: 100%;
+}
+td{
+    border: cyan groove 3px;
+    max-width:40vw;
+    word-wrap:break-word; 
+    word-break:normal; 
+}
+u{
+    font-size: 5vh;
+    color:teal
+}
+img{
+    width:60px;
+    height:auto
+}

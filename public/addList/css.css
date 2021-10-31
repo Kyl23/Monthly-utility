@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(3, 3, 58);
+    text-align: center;
+    width:70vw;
+    margin: auto;
+    font-size: 2vh;
+}
+label{
+    color:white;
+    display: inline-block;
+    padding-right: 20px;
+}
+input,select,img{
+    width: 70vw;
+    
+    margin-top:2vh;
+    height: 10vh;
+    border-radius: 45px;
+    background-color: rgb(10, 10, 104);
+    color:white;
+    box-shadow: rgb(50, 36, 179) 0px 0px 12px 3px;
+    display: inline-block;
+    padding: 0 10px;
+    outline: none;
+    font-size: 2vh;
+}
+br{
+    height: 20px;
+}
+.member{
+    text-align: center;
+    width: 16vw;
+    height:16vw;
+    margin:1vw;
+}
+.reset{
+    width: auto;
+    background-color: yellowgreen;
+    color: black;
+    height: 6vh;
+    padding: 30px;
+}
+.submit{
+    background-color: green;
+}
+.insert{
+    background-color: rgb(55, 63, 71);
+    width:103%
+}
+select{
+    background-color: rgb(202,15,15);
+    width: 103%;
+}
+.addition{
+    background-color: rgb(202, 15, 15);
+}
+#container2{
+    color:chartreuse
+}
+img{
+	margin-top:70px
+}
